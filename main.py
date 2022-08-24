@@ -19,4 +19,4 @@ while not bidding_finished:
     print("The highest bidder was " + highest_bid + f" with {max_bid}$")
     bidding_finished = True
   else:
-    print("Error please make sure you right correctly")
+    print("Error please make sure you write correctly")
